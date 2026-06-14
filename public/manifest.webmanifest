@@ -1,0 +1,11 @@
+{
+  "name": "कंचन का मंगल उत्सव",
+  "short_name": "कंचन उत्सव",
+  "description": "वधू पक्ष की ओर से सगाई एवं शुभ विवाह का निमंत्रण।",
+  "lang": "hi",
+  "start_url": "/kanchan-celebrations/",
+  "scope": "/kanchan-celebrations/",
+  "display": "standalone",
+  "background_color": "#fdf5ef",
+  "theme_color": "#6f1d1b"
+}
